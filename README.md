@@ -2,11 +2,11 @@
 <div align="center">
 
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BCA3CA&size=35&center=true&vCenter=true&width=1000&lines=Olá;Seja+Bem+Vindo(a)+aos+meus+projetos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BCA3CA&size=35&center=true&vCenter=true&width=1000&lines=Olá;Seja+Bem+Vindo(a)+ao+meu+GitHub)](https://git.io/typing-svg)
 
 
    <!--
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/AlessandraFS/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Ale-FS/count.svg" /></p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlessandraFS&no-bg=true&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -15,8 +15,8 @@
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) 
   
 <div>
-  <a href="https://github.com/AlessandraFS">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AlessandraFS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
+  <a href="https://github.com/Ale-FS">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Ale-FS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraFS&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -42,13 +42,13 @@
 </br></br>
 
 <!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlessandraFS&bg_color=000000&color=7C4789&line=BCA3CA&point=7C4789&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ale-FS&bg_color=000000&color=7C4789&line=BCA3CA&point=7C4789&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
   
-<!--  ![Snake animation](https://github.com/AlessandraFS/AlessandraFS/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/Ale-FS/Ale-FS/blob/output/github-contribution-grid-snake.svg) -->
 
- <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlessandraFS&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=4DD828&ring=4C4C4C&currStreakLabel=FFFFFF)](https://git.io/streak-stats)  
+ <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ale-FS&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=4DD828&ring=4C4C4C&currStreakLabel=FFFFFF)](https://git.io/streak-stats)  
      ![GitHub metrics](https://metrics.lecoq.io/AlessandraFS)   -->
   
   </div>
